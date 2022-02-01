@@ -1,0 +1,203 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* global style  */
+.button-style {
+  font-size: 19px;
+font-weight: 700;
+background-color: #de292b;
+text-transform: uppercase;
+letter-spacing: 4px;
+color: #fff;
+border: none;
+padding: 17px 50px;
+margin-top: 40px;
+border-radius: 39px;
+}
+/* header-manu */
+.header-manu{
+background: rgb(251, 48, 33);
+
+
+
+}
+
+
+/* header style  */
+.header-section {
+  padding: 80px 120px;
+  height: 600px;
+}
+.header-section .left {
+  float: left;
+  width: 50%;
+}
+.header-section .left h1 {
+  font-size: 80px;
+}
+.header-section .left h1 span {
+  font-size: 100px;
+  color: #ff1619;
+}
+.header-section .left p {
+  font-size: 22px;
+  line-height: 35px;
+}
+.header-section .right {
+  float: right;
+  width: 50%;
+}
+.header-section .right img {
+  border-radius: 50%;
+  width: 90%;
+}
+
+
+/* breakfast style  */
+.breakfast-section {
+  height: 660px;
+  padding: 80px 120px;
+  background-color: #eee;
+}
+.card-container {
+  float: left;
+  width: 30%;
+}
+.breakfast-card {
+  width: 350px;
+  background-color: #fff;
+  height: 400px;
+  padding: 40px;
+  margin: 50px 0 0 50px;
+  position: absolute;
+}
+.breakfast-card h2 {
+  font-size: 35px;
+}
+.breakfast-card p {
+  margin-top: 15px;
+  font-size: 16px;
+  line-height: 25px;
+  letter-spacing: 1px;
+}
+.breakfast-picture {
+  float: right;
+  width: 70%;
+}
+.breakfast-picture img {
+  width: 100%;
+  height: 500px;
+}
+
+
+/* fast food style  */
+.fast-food-section {
+  height: 650px;
+  width: 100%;
+  background-image: url(".//img/banner.jpg");
+  background-position: center;
+  background-size: cover;
+  color: #fff;
+}
+.fast-food-content {
+  padding: 200px 120px;
+}
+.fast-food-content p {
+  font-size: 24px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+.fast-food-content h1 {
+  font-size: 70px;
+}
+
+
+/* delivery style */
+.delivery-section {
+  height: 750px;
+  width: 100%;
+  padding: 83px 156px;
+}
+.delivery-section .delivery-picture {
+  float: left;
+  width: 50%;
+  text-align: right;
+}
+.delivery-section .delivery-picture img {
+  width: 90%;
+  border-radius: 50%;
+}
+.delivery-card-container {
+  width: 45%;
+  height: 500px;
+  float: right;
+  background-color: #eeeeee;
+}
+.delivery-card {
+  padding: 80px;
+}
+.delivery-card h2 {
+  font-size: 42px;
+}
+.delivery-card p {
+  margin-top: 15px;
+  font-size: 16px;
+  line-height: 25px;
+  letter-spacing: 2px;
+}
+
+
+/* footer style  */
+.footer-section {
+  background-color: #000;
+  color: #fff;
+  height: 660px;
+  padding: 80px 120px;
+}
+.footer-picture {
+  float: left;
+  width: 40%;
+}
+.footer-picture img {
+  width: 100%;
+  height: 500px;
+}
+.footer-content {
+  padding: 80px;
+  text-align: center;
+  width: 60%;
+  float: right;
+}
+.footer-content .title {
+  font-size: 24px;
+  font-weight: 500;
+}
+.footer-content form input {
+  padding: 20px;
+  width: 250px;
+  background-color: #000;
+  border: none;
+  border-bottom: 2px solid #fff;
+}
+.submit-btn {
+  border-radius: 0;
+}
+.address {
+  margin-top: 40px;
+}
+.address h3 {
+  font-size: 24px;
+  font-weight: 500;
+  letter-spacing: 2px;
+  margin: 20px 0;
+}
+.address ul li {
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 2px;
+  margin: 5px 0;
+  list-style: none;
+}

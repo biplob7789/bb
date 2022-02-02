@@ -5,16 +5,7 @@
 }
 /* global style  */
 .button-style {
-  font-size: 19px;
-
-background-color: #de292b;
-text-transform: uppercase;
-letter-spacing: 4px;
-color: #fff;
-border: none;
-padding: 17px 50px;
-margin-top: 40px;
-border-radius: 39px;
+ font-size: 30px ;
 }
 /* header-manu */
 .header-manu{
